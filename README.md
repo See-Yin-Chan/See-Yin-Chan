@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning R and SQL
 - 📫 You can reach me at chan0961@e.ntu.edu.sg or connect with me on [LinkedIn](https://www.linkedin.com/in/chanseeyin/)
-- 😄 Most of my projects are available in my [portfolio](https://www.chanseeyin.com)
+- 😄 Most of my projects are available at my [website](https://www.chanseeyin.com)
 - 👯 In my free time, I like to read and embroider
 - ⚡ Fun fact: I love vegetables
 
