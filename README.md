@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning R and SQL
-- 📫 You can reach me at chan0961@e.ntu.edu.sg or connect with me on [LinkedIn](https://www.linkedin.com/in/chanseeyin/)
-- 😄 Most of my projects are available at my [website](https://www.chanseeyin.com)
-- 👯 In my free time, I like to read and embroider
-- ⚡ Fun fact: I love vegetables
-
 <!--
 **See-Yin-Chan/See-Yin-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
